@@ -1,4 +1,4 @@
-# Dogs - Origamid
+# Dogs
 Projeto desenvolvido em React no curso de React Completo da Origamid.
 
 ![banner](https://github.com/hildebrandofilho/dogs-origamid/blob/main/readme.gif)
